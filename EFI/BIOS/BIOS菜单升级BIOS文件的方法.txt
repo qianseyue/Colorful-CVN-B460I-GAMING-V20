@@ -1,0 +1,18 @@
+
+
+BIOS菜单升级BIOS文件的方法：
+
+1.访问七彩虹官网https://www.colorful.cn/ 下载本主板的最新BIOS。
+
+2.将BIOS文件复制到您的U盘根目录。
+
+3.将U盘接在主板USB接口。
+
+4.开机按键盘的“DEL”键进入BIOS中，将 Advanced---Chipset---ME Control 设为关闭，再F10保存退出。
+
+5.开机按键盘的“DEL”键进入BIOS中，选择BIOS SETTING项，再选择Update Bios By USB，选择U盘中的BIOS文件更新即可。
+
+
+注意事项：
+1）更新BIOS之前，要关闭BIOS菜单中的ME选项和BIOS写保护选项。
+2）请不要在内存/CPU 超频状态下更新BIOS。
